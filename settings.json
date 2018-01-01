@@ -1,0 +1,47 @@
+{
+  "files.autoSave": "onFocusChange",
+  "cssModules.camelCase": true,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Atom One Dark",
+  "window.zoomLevel": 0,
+  "editor.fontFamily": "Fira Code Retina",
+  // "editor.fontFamily": "DejaVu Sans Mono",
+  // "editor.fontFamily": "Fira Mono",
+  // "editor.fontFamily": "Envy Code R",
+  "editor.fontWeight": "600",
+  "editor.fontSize": 18,
+  "editor.fontLigatures": true,
+  "editor.formatOnType": true,
+  "editor.wordWrapColumn": 120,
+  "editor.lineHeight": 24,
+  "terminal.external.windowsExec": "C:\\WINDOWS\\System32\\cmd.exe",
+  "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+  "docker.showExplorer": false,
+  "workbench.iconTheme": "material-icon-theme",
+  // Controls the line height. Use 0 to compute the lineHeight from the fontSize.
+  "prettier.singleQuote": true,
+  "prettier.printWidth": 120,
+  "explorer.confirmDelete": false,
+  "msbuildProjectTools": {
+    "logging": {
+      "level": "Information",
+      "seq": {},
+      "file": "",
+      "trace": false
+    },
+    "language": {
+      "disableFeature": {},
+      "useClassicProvider": false,
+      "disable": {
+        "hover": false
+      }
+    },
+    "nuget": {
+      "newestVersionsFirst": true,
+      "includePreRelease": true,
+      "disablePrefetch": false
+    },
+    "schemaVersion": 1
+  },
+  "workbench.editor.tabSizing": "shrink"
+}

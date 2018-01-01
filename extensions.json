@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "rebornix.project-snippets",
+    "esbenp.prettier-vscode",
+    "pflannery.vscode-versionlens",
+    "wayou.vscode-todo-highlight",
+    "christian-kohler.path-intellisense",
+    "leizongmin.node-module-intellisense",
+    "clinyong.vscode-css-modules",
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-close-tag",
+    "eg2.tslint",
+    "PKief.material-icon-theme",
+    "akamud.vscode-theme-onedark"
+  ]
+}
